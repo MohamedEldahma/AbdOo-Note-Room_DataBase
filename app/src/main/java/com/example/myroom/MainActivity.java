@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2019.
+ * AbdOo Saed
+ * abdoo.dev@gmail.com
+ */
+
 package com.example.myroom;
 
 import android.content.DialogInterface;
