@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Room</string>
+    <string name="save">Save</string>
+    <string name="content">Content</string>
+    <string name="date">Date</string>
+    <string name="title">Title:</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="note">Note:</string>
+    <string name="edit_name">Edit Name</string>
+    <string name="exit">Exit</string>
+    <string name="about_developer">About Developer</string>
+    <string name="more">More</string>
+    <string name="about_dev"> My name AbdOo Saed ,i am Android Developer ,
+I studied electronic and electrical engineering,20 years old, from Egypt.</string>
+</resources>
